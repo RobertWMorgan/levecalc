@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/levecalc/static/css/main.0812fa73.css",
+    "main.js": "/levecalc/static/js/main.e78a1d8d.js",
+    "static/js/453.f7517957.chunk.js": "/levecalc/static/js/453.f7517957.chunk.js",
+    "index.html": "/levecalc/index.html",
+    "main.0812fa73.css.map": "/levecalc/static/css/main.0812fa73.css.map",
+    "main.e78a1d8d.js.map": "/levecalc/static/js/main.e78a1d8d.js.map",
+    "453.f7517957.chunk.js.map": "/levecalc/static/js/453.f7517957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0812fa73.css",
+    "static/js/main.e78a1d8d.js"
+  ]
+}
