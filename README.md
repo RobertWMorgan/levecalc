@@ -1,5 +1,6 @@
 LEVE CALC
 
+Link to site: https://robertwmorgan.github.io/levecalc/
 
 Small project to calculate the split amounts from doing ffxiv levequests
 
